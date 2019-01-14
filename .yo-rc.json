@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "bug-record",
+    "style": "css",
+    "cssmodules": true,
+    "postcss": true,
+    "generatedWithVersion": 4
+  }
+}
